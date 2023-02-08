@@ -3,21 +3,17 @@
 ############################
 #
 # Required value:
-name: Henry Walton Jones, Jr. # full name
+name: Dimitris Karatsoulas # full name
 #
-# Optional values: 
+# Optional values:
 # These can be commented out or deleted.
-display-name: Henry Walton “Indiana” Jones, Jr. # name to be displayed.
-date-of-birth: 1899-07-01 # in YYYY-MM-DD format
+display-name: Dimitris Karatsoulas # name to be displayed.
+date-of-birth: 25-03-1985 # in DD-MM-YYYY format
 citizenships:
-- United States of America
-- Aramathea
+  - Greece
 address:
-- Brody Hall 134
-- Marshall College
-- Bedford, CT 0649x
-telephone: +1 860 555-5555
-email: hwjones@marshall-ct.edu
-url: archaeology.marshall-ct.edu/faculty/jones-henry/
-twitter: IndianaJones
-github: IndianaJones
+telephone:
+email: d.karatsoulas@gmail.com
+url: https://akimo13.github.io/
+twitter: Jimmy_Karachoo
+github: akimo13
