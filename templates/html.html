@@ -216,13 +216,6 @@
         $for(address)$$address$$sep$<br />$endfor$
       </div>
       <div class="col-md-6">
-        $if(telephone)$
-        $if(fontawesome)$
-        <i class="fas fa-phone">
-        $else$
-        <i>Tel:
-        $endif$</i> $telephone$ <br />
-        $endif$
         $if(email)$
         $if(fontawesome)$
         <i class="fas fa-envelope">
@@ -253,9 +246,9 @@
         $endif$
       </div>
     </div>
-    $if(citizenships)$
-    <p class="mt-3">Citizenship:
-      $for(citizenships)$$citizenships$$sep$ and $endfor$
+    $if(country)$
+    <p class="mt-3">Country:
+      $for(country)$$country$$sep$ and $endfor$
     </p>
     $endif$
 

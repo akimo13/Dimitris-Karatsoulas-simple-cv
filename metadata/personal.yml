@@ -9,11 +9,12 @@ name: Dimitris Karatsoulas # full name
 # These can be commented out or deleted.
 display-name: Dimitris Karatsoulas # name to be displayed.
 date-of-birth: 25-03-1985 # in DD-MM-YYYY format
-citizenships:
+country:
   - Greece
 address:
-telephone:
+  - Agrinio
 email: d.karatsoulas@gmail.com
 url: https://akimo13.github.io/
 twitter: Jimmy_Karachoo
 github: akimo13
+linkedin: https://www.linkedin.com/in/dimitris-karatsoulas-9b6568257/
